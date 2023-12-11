@@ -41,7 +41,7 @@ body {
   display: flex;
   align-items: center;
   padding: 0px 30px;
-  background-color: #0652c0;
+  background-color: blue;
   color: var(--light-color);
   font-size: 1.5rem;
 }
@@ -92,13 +92,13 @@ body {
 .chatbot-message,
 .user-message {
   padding: 8px;
-  background: #ccc;
+  background: white;
   margin: 5px;
   width: max-content;
   border-radius: 10px 3px 10px 10px;
 }
 .chatbot-message {
-  background: #0652c0;
+  background: blue;
   color: var(--light-color);
   align-self: flex-start;
   border-radius: 10px 10px 3px 10px;
