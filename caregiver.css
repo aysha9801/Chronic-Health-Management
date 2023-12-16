@@ -1,0 +1,28 @@
+:root {
+    /* Background Color */
+    --primary-color: #79E0EE;
+    --secondary-color: #98EECC;
+    --third-color: #D0F5BE;
+    --fourth-color: #FBFFDC;
+    --bg-dark: #666;
+    --bg-white: #fff;
+
+    /* Text Style */
+    --primary-font: 'Roboto Slab', serif;
+    --secondary-font: 'Josefin Sans', sans-serif;
+    --primary-text: #79E0EE;
+    --secondary-text: #98EECC;
+    --text-white: #fff;
+    --text-black: #222;
+    --text-gray: #666;
+    --text-light: #ddd;
+}
+
+body{
+    background-color: var(--primary-color);
+}
+
+.banner_wrapper .animate-img{
+    margin-top: 100px;
+    text-align: center;
+}
